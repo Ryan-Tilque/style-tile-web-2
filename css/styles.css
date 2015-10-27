@@ -12,6 +12,7 @@ section {
 .color-1,
 .color-2,
 .color-3,
+.color-4,
 .pattern-1,
 .pattern-2,
 .pattern-3, 
@@ -51,4 +52,37 @@ figure p {
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+}
+
+/*Style Tile*/
+
+  /*color palette*/
+.color-1{
+	background-color: #946A33;
+}
+
+.color-2{
+	background-color: #943333;
+}
+
+.color-3{
+	background-color: #33947C;
+}
+
+.color-4{
+	background-color: #CCAD85;
+}
+
+/*patterns*/
+
+.pattern-1{
+	background: url(../img/purty_wood.png);
+}
+
+.pattern-2{
+	background: url(../img/subtle_stripes.png);
+}
+
+.pattern-3{
+	background: url(../img/swirl.png);
 }
